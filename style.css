@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+header {
+    background: #0a2540;
+    color: #fff;
+    padding: 15px 0;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+}
+
+header nav ul {
+    float: right;
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero {
+    background: #1a73e8;
+    color: #fff;
+    text-align: center;
+    padding: 80px 0;
+}
+
+.btn-large {
+    background: #fff;
+    color: #1a73e8;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.services, .pricing, .about, .contact {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.service-box, .price-card {
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 15px;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    border-radius: 8px;
+}
+
+.popular {
+    border: 2px solid #1a73e8;
+}
+
+.price {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.contact form input,
+.contact form select,
+.contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background: #0a2540;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+}
