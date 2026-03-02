@@ -37,7 +37,7 @@ header nav ul li a {
 }
 
 .hero {
-    background: #1a73e8;
+    background: #0a2540;
     color: #fff;
     text-align: center;
     padding: 80px 0;
@@ -88,4 +88,5 @@ footer {
     color: #fff;
     text-align: center;
     padding: 15px 0;
+
 }
